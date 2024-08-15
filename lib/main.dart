@@ -43,6 +43,7 @@ class HomeActivity extends StatelessWidget {
                 'Experiment with text styles',
                 style: TextStyle(
                   fontSize: 20,
+                  fontStyle: FontStyle.italic,
                   //fontStyle:
                 ),
               ),
